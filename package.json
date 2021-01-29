@@ -1,0 +1,14 @@
+{
+  "name": "node-gyp-help-sample",
+  "version": "1.0.0",
+  "author": "Thiago Veronezi",
+  "license": "ASF",
+  "main": "index.js",
+  "files": [
+    "binding.gyp",
+    "index.js"
+  ],
+  "devDependencies": {
+    "node-gyp": "^3.2.1"
+  }
+}
