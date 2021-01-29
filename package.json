@@ -9,6 +9,6 @@
     "index.js"
   ],
   "devDependencies": {
-    "node-gyp": "^3.2.1"
+    "node-gyp": "^7.1.2"
   }
 }
